@@ -1,2 +1,2 @@
 # Data-analysis-with-python-free-code-camp
-List of assignments solutions
+This repository contains projects done for FreeCodeCamp.org's Data Analysis With Python Certification.
